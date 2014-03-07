@@ -1,0 +1,12 @@
+{
+    "name": "angular-SimplePagination",
+    "version": "0.0.1",
+    "ignore": [
+        "karma.conf.js",
+        "README.md",
+        "simplePagination.spec.js"
+    ],
+    "dependencies": {
+        "angularjs": ""
+    },
+}
